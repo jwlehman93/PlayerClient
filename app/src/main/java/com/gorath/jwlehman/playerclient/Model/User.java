@@ -2,6 +2,7 @@ package com.gorath.jwlehman.playerclient.Model;
 
 /**
  * Created by Jeremy on 10/7/2015.
+ * user class that contains info about individual members
  */
 public class User {
     private String name;

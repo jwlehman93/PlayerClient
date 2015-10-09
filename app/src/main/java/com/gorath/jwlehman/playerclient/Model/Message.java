@@ -2,6 +2,7 @@ package com.gorath.jwlehman.playerclient.Model;
 
 /**
  * Created by Jeremy on 10/7/2015.
+ * individual message model
  */
 public class Message {
     private User sender;

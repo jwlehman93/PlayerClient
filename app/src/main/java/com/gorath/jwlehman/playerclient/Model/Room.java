@@ -4,6 +4,8 @@ import java.util.List;
 
 /**
  * Created by Jeremy on 10/7/2015.
+ * Chat room class that will be used in room container
+ *
  */
 public class Room {
     private List<Message> messageList;
