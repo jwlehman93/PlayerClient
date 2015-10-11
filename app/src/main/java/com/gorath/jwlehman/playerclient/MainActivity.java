@@ -18,7 +18,7 @@ public class MainActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Firebase.setAndroidContext(this);
-        setContentView(R.layout.main);
+        setContentView(R.layout.activity_main);
         fb = new Firebase("https://intense-fire-3607.firebaseio.com/");
     }
 }
