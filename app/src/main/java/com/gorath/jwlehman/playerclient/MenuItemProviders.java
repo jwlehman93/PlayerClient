@@ -11,5 +11,8 @@ import java.util.List;
 public class MenuItemProviders {
     private List<MenuItem> items = new ArrayList<MenuItem>(){{
         add(new MenuItem("Chat Forums"));
+        add(new MenuItem("Schedule"));
+        add(new MenuItem("Practice Schedule"));
+        add(new MenuItem("Contact Officers and Coaches"));
     }};
 }
